@@ -1,3 +1,5 @@
+![logo](https://github.com/Sidzzzzzzzz/Sidzzzzzzzz/blob/main/github-header-image.png)
+
 <h1 align="center">Hi 👋, I'm Sidzzzzzzzz</h1>
 
 <h3 align="center">Change is impossible in this fog of ignorance ❤️‍🩹</h3>

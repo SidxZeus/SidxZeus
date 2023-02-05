@@ -4,7 +4,7 @@
 
 <h3 align="center">Change is impossible in this fog of ignorance ❤️‍🩹</h3>
 
-<img aling="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+<img aling="right" alt="coding" width="400" src="https://camo.githubusercontent.com/1c599fd918f649ead173975ee0cb6ce72c47d2765e2813f608f7282a74407e26/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f38333648694a633770677a7938694e58436e2f67697068792e676966">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sidzzzzzzzz&label=Profile%20views&color=0e75b6&style=flat" alt="sidzzzzzzzz" /> </p>
 

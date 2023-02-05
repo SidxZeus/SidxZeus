@@ -4,7 +4,7 @@
 
 <h3 align="center">Change is impossible in this fog of ignorance ❤️‍🩹</h3>
 
-<img aling="right" alt="coding" width="400" src="https://gifdb.com/gif/sasuke-eternal-sharingan-rlf5nrllu25m0bvv.html">
+<img aling="right" alt="coding" width="400" src="https://tenor.com/bS4nl.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sidzzzzzzzz&label=Profile%20views&color=0e75b6&style=flat" alt="sidzzzzzzzz" /> </p>
 

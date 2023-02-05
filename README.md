@@ -1,6 +1,6 @@
 ![logo](https://github.com/Sidzzzzzzzz/Sidzzzzzzzz/blob/main/github-header-image.png)
 
-<h1 align="center">Its me Sidzzzzzzzz ⚡</h1>
+<h1 align="center">It's me Sidzzzzzzzz ⚡</h1>
 
 <h3 align="center">Change is impossible in this fog of ignorance ❤️‍🩹</h3>
 

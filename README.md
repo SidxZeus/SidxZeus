@@ -22,7 +22,7 @@
 
 <p align="left">
 
-<a href="https://instagram.com/@sidxd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@sidxd" height="30" width="40" /></a>
+<a href="https://instagram.com/Sidxd._" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@sidxd" height="30" width="40" /></a>
 
 </p>
 

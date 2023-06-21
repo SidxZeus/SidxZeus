@@ -24,6 +24,10 @@
 
 <a href="https://instagram.com/Sidxd._" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@sidxd" height="30" width="40" /></a>
 
+<p align="right">
+  
+<a href="http://wa.me/436993190999999?text=_៚ʜᴇʟʟᴏ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="@sidxd" height="30" width="40" /></a>
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

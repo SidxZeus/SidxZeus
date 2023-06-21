@@ -2,11 +2,19 @@
 </p>
 </p>
 
-<h1 align="center">It's me Sidzzzzzzzz ⚡</h1>
+<h2 align="left">It's me Sidzzzzzzzz ⚡</h2>
 
-<h3 align="center">Change is impossible in this fog of ignorance ❤️‍🩹</h3>
+<h3 align="left">𝙒𝙝𝙞𝙡𝙚(𝙖𝙡𝙞𝙫𝙚){ 𝙠𝙚𝙚𝙥 𝙥𝙪𝙨𝙝𝙞𝙣𝙜 (𝙮𝙤𝙪𝙧𝙨𝙚𝙡𝙛) }</h3>
 
-<img aling="right" alt="coding" width="400" src="https://camo.githubusercontent.com/1c599fd918f649ead173975ee0cb6ce72c47d2765e2813f608f7282a74407e26/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f38333648694a633770677a7938694e58436e2f67697068792e676966">
+<img aling="right" alt="coding" width="400" src="https://camo.githubusercontent.com/61491d59e71fec5c794945fed916a4a682b6c0404fc31f30b08a0d919c558404/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445363451474b524a4738535741495553374e532f6b6531375a77644742546f6464493870446d34386b506f73776c7a6a53564d4d2d53784f703743563539425a772d7a505067646e346a557756634a45315a7657515578776b6d794578676c4e714770304976544a5a616d574c49327a76595748384b332d735f3479737a63703272795449304871544f6161556f68724938504936465879386339505774426c7141566c555335697a7064634958445a71445976707252715a32395077306f2f636f64696e672d667265616b2e676966">
+
+<h2>🧋: Joke of the day</h2>
+<details>
+<summary>See joke</summary>
+    <a href="https://github.com/ABSphreak/readme-jokes">
+        <img src="https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder" alt="Jokes Card" />
+    </a>
+</details>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sidzzzzzzzz&label=Profile%20views&color=0e75b6&style=flat" alt="sidzzzzzzzz" /> </p>
 

@@ -1,50 +1,65 @@
-![My card name](https://cardivo.vercel.app/api?name=Zeusss🪽%20&description=Hi,%20Welcome%20To%20My%20Profile&image=https://i.imgur.com/PPmXp6q.jpeg?q=tbn:ANd9GcR7aMC3bf4bg4l_nhYS2Un9FXbFYcB4T83Shjk8xSUZDh_D61LFpzbpeqLW&s=10?v=4&backgroundColor=%23e4f2f6&instagram=Sidxd._&github=Sidzzzzzzzz&)
-</p>
-</p>
+<div align="center">
+	
+![](https://typograssy.deno.dev/api?text=ウェル300は秘密の宝です。!&l0=none&l1=8a2be2&l2=9370db&l3=ba55d3&l4=d8bfd8&bg=none&frame=none&speed=100&comment=)
 
-<h2 align="left">It's me Sidzzzzzzzz ⚡</h2>
+</div>
+<a href="https://talha-300.vercel.app/">
+  <img align="right" width="150" src="https://i.pinimg.com/originals/66/36/d3/6636d37ba22a391c6353b1436a81f656.gif">
+</a>
 
-<h3 align="left">𝙒𝙝𝙞𝙡𝙚(𝙖𝙡𝙞𝙫𝙚){ 𝙠𝙚𝙚𝙥 𝙥𝙪𝙨𝙝𝙞𝙣𝙜 (𝙮𝙤𝙪𝙧𝙨𝙚𝙡𝙛) }</h3>
 
-<img aling="right" alt="coding" width="400" src="https://camo.githubusercontent.com/61491d59e71fec5c794945fed916a4a682b6c0404fc31f30b08a0d919c558404/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445363451474b524a4738535741495553374e532f6b6531375a77644742546f6464493870446d34386b506f73776c7a6a53564d4d2d53784f703743563539425a772d7a505067646e346a557756634a45315a7657515578776b6d794578676c4e714770304976544a5a616d574c49327a76595748384b332d735f3479737a63703272795449304871544f6161556f68724938504936465879386339505774426c7141566c555335697a7064634958445a71445976707252715a32395077306f2f636f64696e672d667265616b2e676966">
+### **Well!! I'm Zeuskiee 🔮**
 
-<h2>🧋: Joke of the day</h2>
-<details>
-<summary>See joke</summary>
-    <a href="https://github.com/ABSphreak/readme-jokes">
-        <img src="https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder" alt="Jokes Card" />
-    </a>
-</details>
+**`Enchanter of the Web and Weaver of Graphics`** 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sidzzzzzzzz&label=Profile%20views&color=0e75b6&style=flat" alt="sidzzzzzzzz" /> </p>
+## **☕ About me**
+<a href="https://github.com/well300"><img align="left" width="100" src="https://i.pinimg.com/originals/58/61/e5/5861e50201592def2f861e910120fff6.png"></a>
+Greetings, I am Zeukiee, the wandering mage known as well300. My passions: gaming, anime, manga, and dabbling in coding and tinkering.
+<br><br>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sidzzzzzzzz" alt="sidzzzzzzzz" /></a> </p>
+## **💻 Experience**
+<a href="https://github.com/well300">
+<img align="right" width="100" src="https://i.giphy.com/media/LLsUNd14gwSkSLYTcR/giphy.webp"></a>
+As a Btech student, I wield the arcane knowledge of web development and UI/UX design. Seeking mystical internships and job opportunities to channel my skills into crafting captivating digital experiences. 🌐💻✨
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 📫 How to reach me **zeussidxd@gmail.com**
-
-- ⚡ Fun fact **I am not a devloper👀**
-
-<h3 align="left">Connect with me:</h3>
-
-<p align="left">
-
-<a href="https://instagram.com/Sidxd._" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@sidxd" height="30" width="40" /></a>
-
-<p align="right">
-  
-<a href="http://wa.me/436993190999999?text=_៚ʜᴇʟʟᴏ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="@sidxd" height="30" width="40" /></a>
-
+## **📊 Github Stats**
+<p align="center">
+  <img width="50%" src="https://github-readme-stats.vercel.app/api?username=sidzzzzzzzz&show_icons=true&count_private=true&theme=react-dark&hide_border=true&bg_color=0d1117" />
+  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sidzzzzzzzz&show_icons=true&count_private=true&theme=react-dark&hide_border=true&bg_color=0d1117&layout=compact" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
 
-<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sidzzzzzzzz&show_icons=true&locale=en&layout=compact" alt="sidzzzzzzzz" /></p>
+## **🎧 Spotify**
+<p align="center">
+  <a href="https://spotify-github-profile.vercel.app/api/view?uid=z8vtap612j1ajql4wsyhl074i&redirect=true">
+    <img src="https://spotify-github-profile.vercel.app/api/view?uid=z8vtap612j1ajql4wsyhl074i&cover_image=true&theme=default&show_offline=true&background_color=4e3f68&interchange=false&bar_color_cover=true">
+  </a>
+  <a href="https://open.spotify.com/user/z8vtap612j1ajql4wsyhl074i?si=6962aa5c8435476f">
+    <img width="525" src="https://spotify-recently-played-readme.vercel.app/api?user=z8vtap612j1ajql4wsyhl074i">
+  </a>
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sidzzzzzzzz&show_icons=true&locale=en" alt="sidzzzzzzzz" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sidzzzzzzzz&" alt="sidzzzzzzzz" /></p>
+## **🟪Profile Counter**
+<a href="https://www.instagram.com/zeuskiee._/"><img align="right" width=400 src="https://moe-counter.glitch.me/get/@well300?theme=rule34"></a>
+<a href="https://github.com/well300"><img align="left" width="100" src="https://static.wikia.nocookie.net/pokemeow-community/images/f/fd/Darkrai_%28Shiny%29_-_Pokemon_-_Pokemeow.gif/revision/latest/thumbnail/width/360/height/360?cb=20201206134815"></a>
+
+```yaml
+Oi, folks checkin' out me profile, eh?
+Heh, another one of ya caught by me charm, aye?
+```
+<!-- <br><br><br><br> -->
+## **📫 Contact**
+<a href="https://github.com/Sidzzzzzzzz"><img align="right" width="100"
+src="https://animesher.com/orig/1/135/1356/13560/animesher.com_evolution-manga-haunter-1356099.gif" /></a>
+**Please Contact me on WhatsApp for a quick response:** [well300](https://api.whatsapp.com/send/?phone=436993190999999&text=Hello%20Well300!%20%F0%9F%8D%B7&type=phone_number&app_absent=0)
+
+**You can also email me here:** zeussidxd@gmail.com
+
+<!--<a href="https://github.com/Meghna-DAS/github-profile-views-counter"><img src="https://komarev.com/ghpvc/?username=well300">-->
+[![](https://img.shields.io/github/followers/well300?label=Followers&style=social&color=purple)](https://github.com/well300)
+[![Instagram](https://img.shields.io/badge/Instagram-ig_well300-purple?logo=instagram&logoColor=white)](https://www.instagram.com/ig_well300/)
+[![](https://img.shields.io/badge/Mail-D14836?logo=gmail&logoColor=white&color=purple)](mailto:talhamohd300@gmail.com)
 

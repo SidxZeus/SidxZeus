@@ -59,7 +59,7 @@ src="https://animesher.com/orig/1/135/1356/13560/animesher.com_evolution-manga-h
 **You can also email me here:** zeussidxd@gmail.com
 
 <!--<a href="https://github.com/Meghna-DAS/github-profile-views-counter"><img src="https://komarev.com/ghpvc/?username=well300">-->
-[![](https://img.shields.io/github/followers/zeuskiee._?label=Followers&style=social&color=purple)](https://github.com/well300)
-[![Instagram](https://img.shields.io/badge/Instagram-ig_zeuskiee._-purple?logo=instagram&logoColor=white)](https://www.instagram.com/ig_well300/)
+[![](https://img.shields.io/github/followers/sidzzzzzzzz?label=Followers&style=social&color=purple)](https://github.com/sidzzzzzzzz)
+[![Instagram](https://img.shields.io/badge/Instagram-ig_zeuskiee._-purple?logo=instagram&logoColor=white)](https://www.instagram.com/zeuskiee._/)
 [![](https://img.shields.io/badge/Mail-D14836?logo=gmail&logoColor=white&color=purple)](mailto:zeussidxd@gmail.com)
 

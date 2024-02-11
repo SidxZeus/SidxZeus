@@ -14,7 +14,7 @@
 
 ## **☕ About me**
 <a href="https://github.com/sidzzzzzzzz"><img align="left" width="100" src="https://i.pinimg.com/originals/58/61/e5/5861e50201592def2f861e910120fff6.png"></a>
-Greetings, I am Zeukiee, the wandering mage known as well300. My passions: gaming, anime, manga, and dabbling in coding and tinkering.
+Greetings, I am Zeus, the wandering mage known as zeuskiee. My passions: gaming, anime, manga, and dabbling in coding and tinkering.
 <br><br>
 
 ## **💻 Experience**

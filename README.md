@@ -43,7 +43,7 @@ As a Btech student, I wield the arcane knowledge of web development and UI/UX de
 
 
 ## **🟪Profile Counter**
-<a href="https://www.instagram.com/zeuskiee._/"><img align="right" width=400 src="https://moe-counter.glitch.me/get/@well300?theme=rule34"></a>
+<a href="https://www.instagram.com/zeuskiee._/"><img align="right" width=400 src="https://moe-counter.glitch.me/get/@Zeuskiee?theme=gelbooru-h"></a>
 <a href="https://github.com/sidzzzzzzzz"><img align="left" width="100" src="https://static.wikia.nocookie.net/pokemeow-community/images/f/fd/Darkrai_%28Shiny%29_-_Pokemon_-_Pokemeow.gif/revision/latest/thumbnail/width/360/height/360?cb=20201206134815"></a>
 
 ```yaml

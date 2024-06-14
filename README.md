@@ -4,7 +4,7 @@
 
 </div>
 <a href="https://sidxzeus.vercel.app/">
-  <img align="right" width="150" src="https://in.pinterest.com/pin/83457399337735453/">
+  <img align="right" width="150" src="https://i.pinimg.com/originals/66/36/d3/6636d37ba22a391c6353b1436a81f656.gif">
 </a>
 
 

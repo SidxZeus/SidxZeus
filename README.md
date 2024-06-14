@@ -15,7 +15,7 @@
 ## **☕ About me**
 <a href="https://github.com/SidxZeus"><img align="left" width="100" src="https://i.imgur.com/sFkPp1R.jpeg"></a>
 Greetings, I am Sid, the wandering mage known as zeuskiee. My passions: gaming, anime, manga, and dabbling in coding and tinkering.
-<br><br>
+<br><br><br>
 
 ## **💻 Experience**
 <a href="https://github.com/SidxZeus">

@@ -13,7 +13,7 @@
 **`Enchanter of the Web and Weaver of Graphics`** 
 
 ## **☕ About me**
-<a href="https://github.com/SidxZeus"><img align="left" width="100" src="https://i.pinimg.com/originals/58/61/e5/5861e50201592def2f861e910120fff6.png"></a>
+<a href="https://github.com/SidxZeus"><img align="left" width="100" src="https://i.imgur.com/sFkPp1R.jpeg"></a>
 Greetings, I am Sid, the wandering mage known as zeuskiee. My passions: gaming, anime, manga, and dabbling in coding and tinkering.
 <br><br>
 

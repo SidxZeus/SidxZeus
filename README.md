@@ -25,7 +25,7 @@ As a Btech student, I wield the arcane knowledge of web development and UI/UX de
 
 ## **📊 Github Stats**
 <p align="center">
-  <img width="50%" src="https://github-readme-stats.vercel.app/api?username=sidzzzzzzzz&show_icons=true&count_private=true&theme=react-dark&hide_border=true&bg_color=0d1117" />
+  <img width="50%" src="https://github-readme-stats.vercel.app/api?username=SidxZeus&show_icons=true&count_private=true&theme=react-dark&hide_border=true&bg_color=0d1117" />
   <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SidxZeus&show_icons=true&count_private=true&theme=react-dark&hide_border=true&bg_color=0d1117&layout=compact" />
 </p>
 

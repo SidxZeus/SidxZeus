@@ -26,9 +26,13 @@ As a Btech student, I wield the arcane knowledge of web development and UI/UX de
 ## **📊 Github Stats**
 <p align="center">
   <img width="50%" src="https://github-readme-stats.vercel.app/api?username=SidxZeus&show_icons=true&count_private=true&theme=react-dark&hide_border=true&bg_color=0d1117" />
-  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SidxZeus&show_icons=true&count_private=true&theme=react-dark&hide_border=true&bg_color=0d1117&layout=compact" />
+  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SidxZeus&show_icons=true&count_private=true&theme=react-dark&hide_border=true&bg_color=0d1117&layout=compact" />
 </p>
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SidxZeus/SidxZeus/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SidxZeus/SidxZeus/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/SidxZeus/SidxZeus/output/github-contribution-grid-snake.svg">
+</picture>
 
 
 ## **🎧 Spotify**

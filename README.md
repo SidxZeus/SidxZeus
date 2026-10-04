@@ -40,8 +40,8 @@ As a Btech student, I wield the arcane knowledge of web development and UI/UX de
   <a href="https://spotify-github-profile.vercel.app/api/view?uid=z8vtap612j1ajql4wsyhl074i&redirect=true">
     <img src="https://spotify-github-profile.vercel.app/api/view?uid=z8vtap612j1ajql4wsyhl074i&cover_image=true&theme=default&show_offline=true&background_color=4e3f68&interchange=false&bar_color_cover=true">
   </a>
-  <a href="https://open.spotify.com/user/z8vtap612j1ajql4wsyhl074i?si=6962aa5c8435476f">
-    <img width="525" src="https://spotify-recently-played-readme.vercel.app/api?user=z8vtap612j1ajql4wsyhl074i">
+  <a href="https://open.spotify.com/user/31cu47hpyfgiafcvxw7lwmie3efa">
+    <img width="525" src="https://spotify-recently-played-readme.vercel.app/api?user=31cu47hpyfgiafcvxw7lwmie3efa">
   </a>
 </p>
 
